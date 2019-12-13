@@ -1,5 +1,8 @@
 # SW설계기초 프로젝트
 
+![forgit](https://user-images.githubusercontent.com/52201658/70831853-f1156580-1e36-11ea-9b2d-51091455f6d1.PNG)
+
+
 ### 평가 방법
 
 - 중간고사 (20%) – 필기 (화: 10/29, 목: 10/31)
