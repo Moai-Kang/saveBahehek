@@ -57,12 +57,12 @@ function drawNextStage() { //Next Stage로 가기위한 발판을 그린다.
 
     else if(getStage() >=4 && getStage() <=7) {
         ctx.drawImage(normalClear, 0,0,canvasWidth,canvasHeight, 0,0,canvasWidth,canvasHeight);
-        drawScore(243,469);
+        drawScore(410,469);
     }
 
     else if(getStage() >=8 && getStage() <10){
         ctx.drawImage(hardClear, 0,0,canvasWidth,canvasHeight, 0,0,canvasWidth,canvasHeight);
-        drawScore(243,469);
+        drawScore(410,469);
     }
 
     else {
