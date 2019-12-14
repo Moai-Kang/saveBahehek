@@ -12,8 +12,6 @@ var burningStartMusic; //버닝 시작할 때 나오는 배경음악
 
 var stageClearMusic; //스테이지 클리어 할 때 나오는 사운드
 
-
-var bol4; //볼빨간 사춘기 노래
 var bgm; //bgm을 넣는 배열
 
 function soundTotalInit() {
@@ -78,11 +76,6 @@ function initEndSoundPause() {
 function burningStartMusicPlay() {
     burningStartMusic.currentTime = 1;
     burningStartMusic.play();
-}
-
-function bol4Play() {
-    bol4.currentTime = 7;
-    bol4.play();
 }
 
 function stageClearMusicPlay(stageNum) {

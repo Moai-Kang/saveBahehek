@@ -95,7 +95,7 @@ function drawScore(x,y) {
     ctx.drawImage(SCOREIMG, 0,0, 112, 32, startX, startY, 112, 32);
 
     if(score >= 1000) { // 네 자리수 Score
-        ctx.drawImage(scoreImage,scorePosition[thousand].x, scorePosition[thousand].y, 32, 32, X, Y, 112, 32);
+        ctx.drawImage(scoreImage,scorePosition[thousand].x, scorePosition[thousand].y, 32, 32, X, Y, 32, 32);
         ctx.drawImage(scoreImage,scorePosition[hundred].x, scorePosition[hundred].y, 32, 32, X + 32, Y , 32, 32);
         ctx.drawImage(scoreImage,scorePosition[ten].x, scorePosition[ten].y, 32, 32, X + 64, Y , 32, 32);
         ctx.drawImage(scoreImage,scorePosition[one].x, scorePosition[one].y, 32, 32, X + 96, Y , 32, 32);

@@ -211,9 +211,9 @@ function renderUpdate() { // 바뀐 내용을 업데이트 하는 함수.
     drawLife(lifeCnt); // 남은 생명을 Canvas에 그려주는 함수 (life.js에 있음)
     drawScore(10, 10); // (score.js에 있음) 
 
-    drawCombo(50, 460);
+    drawCombo(50, 460); // (Score.js에 있음)
 
-    for (var i = mapProgress[getStage()]; i < stageDirectionPosition[getStage()].length; i++) // 남은 방향키를 그리는 반복문이에요. 코드를 깔끔하게 짜지 못해서 이해가 어려우실 텐데 설명 필요하시면 카톡으로 여쭤봐 주세요.
+    for (var i = mapProgress[getStage()]; i < stageDirectionPosition[getStage()].length; i++) // 남은 방향키를 그리는 반복문
         drawItem(stageDirection[getStage()][i], stageDirectionPosition[getStage()][i]);
 }
 
