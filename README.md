@@ -1,4 +1,9 @@
-# SW설계기초 프로젝트
+# 바흐흑을 구해 바흐흑!
+
+![InitImage](https://user-images.githubusercontent.com/52201658/70849359-90326f80-1ec0-11ea-81c1-c4767c1214f2.png)
+![gameExplain](https://user-images.githubusercontent.com/52201658/70849365-9a546e00-1ec0-11ea-8670-2874e51e0142.png)
+
+## SW설계기초 프로젝트
 
 ### 평가 방법
 
@@ -129,6 +134,3 @@
 ##### 강근우
 - 개발 방법, 개발 문서, 개발 툴 같은거 정해서 문서화 시키기(~11/14)
 
-### 내부 개발 문서
-
-자바스크립트 코딩 컨벤션: https://itmining.tistory.com/72
