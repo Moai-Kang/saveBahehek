@@ -3,6 +3,8 @@
 ![InitImage](https://user-images.githubusercontent.com/52201658/70849359-90326f80-1ec0-11ea-81c1-c4767c1214f2.png)
 ![gameExplain](https://user-images.githubusercontent.com/52201658/70849365-9a546e00-1ec0-11ea-8670-2874e51e0142.png)
 
+### [플레이 영상](https://youtu.be/DLqiB3tZmqE) 
+
 ## SW설계기초 프로젝트
 
 ### TechSet
